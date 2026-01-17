@@ -1,1 +1,2 @@
 ## Executive Summary
+This project analyzes SaaS user behavior to identify the key drivers of trial-to-paid conversion using Exploratory Data Analysis (EDA). Engagement metrics such as session duration, pages visited, actions, device type, and referral source were evaluated to distinguish converting and non-converting users. The analysis delivers data-driven insights to improve onboarding, optimize acquisition channels, and increase monetization for subscription-based products.
