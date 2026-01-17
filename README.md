@@ -7,7 +7,7 @@ This project analyzes SaaS user behavior to identify the key drivers of trial-to
 The SaaS platform facing low trial-to-paid conversion rates, increasing Customer Acquisition Cost (CAC), thus limiting revenue growth. This project analyzes user engagement metrics to identify behaviors that improve conversion, optimize acquisition channels, and drive higher monetization and retention.
 
 ## Data Flow Diagram
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4ad58357-2d4d-4c05-8cf2-3407636bf405" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/15782862-64cc-4ea3-9da8-68752abbe8a8" />
 
 ## Methodology
 - Data cleaning and profiling to ensure quality and consistency
