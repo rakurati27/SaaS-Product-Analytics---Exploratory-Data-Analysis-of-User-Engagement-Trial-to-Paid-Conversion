@@ -11,7 +11,7 @@ Assess the impact of device type, referral source, and engagement metrics
 Support data-driven product decisions to increase conversion and retention
 
 ## Data Flow Diagram
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/15782862-64cc-4ea3-9da8-68752abbe8a8" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eda5ac61-1c13-49b3-9e74-13ef6531c22c" />
 
 ## Methodology
 Data Cleaning & Profiling
