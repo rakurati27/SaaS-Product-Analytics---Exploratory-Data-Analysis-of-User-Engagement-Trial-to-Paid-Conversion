@@ -44,20 +44,21 @@ Visualization & Storytelling
 | GitHub               | Version control                         |
 
 ## Key Insights
-Users who spent more time per session and completed more actions had higher conversion rates.
-Referral sources varied in conversion effectiveness — some channels produced more engaged users.
-Device type segmentation revealed different behavior patterns (e.g., desktop vs mobile).
-Visualizing engagement metrics uncovered distinct clusters of user behavior associated with conversions.
+- Users who spent more time per session and completed more actions had higher conversion rates.
+- Referral sources varied in conversion effectiveness — some channels produced more engaged users.
+- Device type segmentation revealed different behavior patterns (e.g., desktop vs mobile).
+- Visualizing engagement metrics uncovered distinct clusters of user behavior associated with conversions.
 
 These outcomes provide actionable guidance for optimizing onboarding flows and channel strategy to boost conversions.
 
 ## Recommendations
-Focus on referral sources with higher conversion lift
-Tailor onboarding messages by device type
-Experiment with feature usage incentives in trial period
-Use engagement thresholds (session length / actions) to trigger upsell prompts
+- Focus on referral sources with higher conversion lift
+- Tailor onboarding messages by device type
+- Experiment with feature usage incentives in trial period
+- Use engagement thresholds (session length / actions) to trigger upsell prompts
 
 ## Next Steps
-Build a predictive model for conversion likelihood
-Integrate time-based retention analysis
-Convert notebooks into modular scripts and create dashboards
+- Translate engagement metrics into actionable conversion levers that product and growth teams can implement
+- Use behavioral insights to optimize onboarding and activation, not just report metrics
+- Link acquisition channels to down-funnel business impact (conversion, retention, LTV)
+- Extend analysis toward predictive and proactive decision-making rather than retrospective reporting
