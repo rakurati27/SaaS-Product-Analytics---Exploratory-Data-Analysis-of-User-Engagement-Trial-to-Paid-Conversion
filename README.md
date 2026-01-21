@@ -10,7 +10,7 @@ Identify engagement patterns and indicators associated with conversion
 Assess the impact of device type, referral source, and engagement metrics
 Support data-driven product decisions to increase conversion and retention
 
-## Data Flow Diagram
+## Workflow
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eda5ac61-1c13-49b3-9e74-13ef6531c22c" />
 
 ## Methodology
