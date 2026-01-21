@@ -1,31 +1,63 @@
 # SaaS Product Analytics: Exploratory Data Analysis of User Engagement & Trial-to-Paid Conversion”
 
 ## Executive Summary
-This project analyzes SaaS user behavior to identify the key drivers of trial-to-paid conversion using Exploratory Data Analysis (EDA). Engagement metrics such as session duration, pages visited, actions, device type, and referral source were evaluated to distinguish converting and non-converting users. The analysis delivers data-driven insights to improve onboarding, optimize acquisition channels, and increase monetization for subscription-based products.
+This project explores user behavior patterns in a SaaS product to identify key drivers of trial-to-paid conversion. Through exploratory data analysis (EDA), segmentation, and targeted visualization, we uncover engagement metrics and user characteristics that distinguish converting from non-converting users, providing insights to improve onboarding flows, acquisition channels, and monetization strategies.
 
 ## Business Problem
-The SaaS platform facing low trial-to-paid conversion rates, increasing Customer Acquisition Cost (CAC), thus limiting revenue growth. This project analyzes user engagement metrics to identify behaviors that improve conversion, optimize acquisition channels, and drive higher monetization and retention.
+SaaS platforms often struggle with low conversion rates from trial users to paid customers, resulting in higher Customer Acquisition Costs (CAC) and lower revenue growth. This analysis aims to:
+
+Identify engagement patterns and indicators associated with conversion
+Assess the impact of device type, referral source, and engagement metrics
+Support data-driven product decisions to increase conversion and retention
 
 ## Data Flow Diagram
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/15782862-64cc-4ea3-9da8-68752abbe8a8" />
 
 ## Methodology
-- Data cleaning and profiling to ensure quality and consistency
-- Exploratory Data Analysis to understand user engagement patterns
-- Comparison of converted vs non-converted users
-- Segmentation by device and referral source
-- Visualization of key metrics to derive business insights
+Data Cleaning & Profiling
+- Checked for missing values
+- Standardized data types
+- Cleaned inconsistent entries
+
+Exploratory Data Analysis (EDA)
+- Univariate analysis: distributions of key metrics
+- Bivariate analysis: engagement vs conversion
+- Segmentation by device type & referral source
+
+SQL‐Driven Metrics
+- Aggregated conversion rates
+- Identified high-impact engagement activities
+- Computed engagement KPIs (e.g., average session time)
+
+Visualization & Storytelling
+- Side-by-side comparison of converters vs non-converters
+- Trends over time and across user segments
 
 ## Skills Demonstrated
-- Exploratory Data Analysis (EDA)
-- Product & User Behavior Analytics
-- KPI Analysis (Engagement, CAC, Conversion)
-- Data Visualization & Storytelling
-- Python: Data preprocessing, statistical exploration, and visualization using pandas, numpy, and matplotlib/seaborn.
-- SQL: Analytical querying with GROUP BY, filtering, aggregations, joins, and KPI computation for conversion metrics.
+| Technology           | Purpose                                 |
+| -------------------- | --------------------------------------- |
+| Python               | Data manipulation, statistical analysis |
+| Pandas               | Data preprocessing                      |
+| NumPy                | Numerical calculations                  |
+| Matplotlib / Seaborn | Visualization                           |
+| SQL                  | Aggregations, filtering, KPI queries    |
+| GitHub               | Version control                         |
 
-## Results
+## Key Insights
+Users who spent more time per session and completed more actions had higher conversion rates.
+Referral sources varied in conversion effectiveness — some channels produced more engaged users.
+Device type segmentation revealed different behavior patterns (e.g., desktop vs mobile).
+Visualizing engagement metrics uncovered distinct clusters of user behavior associated with conversions.
+
+These outcomes provide actionable guidance for optimizing onboarding flows and channel strategy to boost conversions.
 
 ## Recommendations
+Focus on referral sources with higher conversion lift
+Tailor onboarding messages by device type
+Experiment with feature usage incentives in trial period
+Use engagement thresholds (session length / actions) to trigger upsell prompts
 
 ## Next Steps
+Build a predictive model for conversion likelihood
+Integrate time-based retention analysis
+Convert notebooks into modular scripts and create dashboards
