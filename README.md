@@ -12,7 +12,7 @@ The dataset is clean and well-structured, with no missing or malformed values. A
 ## Business Problem
 SaaS companies often experience low trial-to-paid conversion rates, increasing CAC and limiting revenue growth. While many users sign up for trials, only a subset demonstrate behaviors that indicate strong purchase intent.
 
-# Key Questions Addressed
+### Key Questions Addressed
 - Which user engagement behaviors during the trial period are most strongly associated with conversion?
 - How do engagement levels differ between converting and non-converting users?
 - Do device type and referral source influence engagement depth and conversion likelihood?
