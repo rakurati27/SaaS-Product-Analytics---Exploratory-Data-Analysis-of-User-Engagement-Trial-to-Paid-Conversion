@@ -22,14 +22,14 @@ SaaS companies often experience low trial-to-paid conversion rates, increasing C
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/cb5a53ec-8cea-4cc9-ade7-bcb6dcd167f3" />
 
 ## Methodology
-# Data Review & Validation
+### Data Review & Validation
 - Reviewed dataset structure and column definitions
 - Verified dataset completeness and consistency
 - Confirmed absence of missing or malformed values
 - Validated conversion labels and engagement metrics
 Since the dataset was pre-cleaned, the analysis prioritizes metric ownership and behavioral interpretation, reflecting how analysts often work with analytics-ready data in real business environments.
 
-# Metric Definitions (Metric Ownership)
+### Metric Definitions (Metric Ownership)
 - Trial-to-Paid Conversion Rate
   Paid users ÷ total trial users
 - Activation Metric
@@ -40,7 +40,7 @@ Since the dataset was pre-cleaned, the analysis prioritizes metric ownership and
   Time elapsed between trial signup and first payment
 These metrics were designed to capture early user intent, not just surface-level activity.
 
-# Exploratory & Segmented Analysis
+### Exploratory & Segmented Analysis
 - Univariate analysis of engagement and usage metrics
 - Bivariate analysis of engagement metrics vs conversion outcomes
 - Segmentation by:
@@ -49,7 +49,7 @@ These metrics were designed to capture early user intent, not just surface-level
   Engagement intensity bands
 - SQL-based aggregation of conversion KPIs across user segments
 
-# Visualization & Storytelling
+### Visualization & Storytelling
 - Side-by-side comparisons of converters vs non-converters
 - Segment-level engagement and conversion trends
 - Visual identification of behavioral patterns associated with higher conversion likelihood
